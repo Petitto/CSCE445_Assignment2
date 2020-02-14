@@ -23,7 +23,5 @@ body{
 }
 
 content-box{
-    width:70%;
-    height:auto;
-    border: 3px solid white;
+    font-size:15px;
 }
